@@ -1,0 +1,29 @@
+.card {
+    display: flex;
+    border-radius: 10px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+
+
+.input-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-task {
+
+    border: none;
+    outline: none;
+    height: 30px;
+}
+
+.button-body {
+    border-radius: 7px;
+    padding: 5px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: end;
+}

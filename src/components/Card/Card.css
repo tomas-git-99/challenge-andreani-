@@ -1,0 +1,21 @@
+.button {
+
+
+    width: 32px;
+    border-radius: 5px;
+    display: grid;
+    justify-content: center;
+    margin-left: 10px;
+
+}
+
+.title-card {
+    text-transform: capitalize;
+}
+
+.count {
+    color: grey;
+    font-size: small;
+    font-weight: 400;
+    margin-left: 10px;
+}

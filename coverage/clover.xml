@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1693506483329" clover="3.2.0">
+  <project timestamp="1693506483329" name="All files">
+    <metrics statements="33" coveredstatements="17" conditionals="17" coveredconditionals="7" methods="20" coveredmethods="6" elements="70" coveredelements="30" complexity="0" loc="33" ncloc="33" packages="4" files="4" classes="4"/>
+    <package name="src">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="App.tsx" path="C:\Users\Tomas\Desktop\proyectos\challenges\challenge-andreani\src\App.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Card">
+      <metrics statements="20" coveredstatements="9" conditionals="13" coveredconditionals="7" methods="11" coveredmethods="2"/>
+      <file name="Card.tsx" path="C:\Users\Tomas\Desktop\proyectos\challenges\challenge-andreani\src\components\Card\Card.tsx">
+        <metrics statements="20" coveredstatements="9" conditionals="13" coveredconditionals="7" methods="11" coveredmethods="2"/>
+        <line num="21" count="9" type="stmt"/>
+        <line num="23" count="9" type="stmt"/>
+        <line num="24" count="9" type="stmt"/>
+        <line num="26" count="9" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="30" count="9" type="stmt"/>
+        <line num="32" count="9" type="stmt"/>
+        <line num="34" count="9" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="49" count="9" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="63" count="36" type="stmt"/>
+        <line num="82" count="0" type="stmt"/>
+        <line num="83" count="0" type="stmt"/>
+        <line num="86" count="0" type="stmt"/>
+        <line num="96" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Kanban">
+      <metrics statements="9" coveredstatements="5" conditionals="4" coveredconditionals="0" methods="6" coveredmethods="2"/>
+      <file name="Kanban.tsx" path="C:\Users\Tomas\Desktop\proyectos\challenges\challenge-andreani\src\components\Kanban\Kanban.tsx">
+        <metrics statements="9" coveredstatements="5" conditionals="4" coveredconditionals="0" methods="6" coveredmethods="2"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="32" count="3" type="stmt"/>
+        <line num="34" count="3" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="36" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="42" count="3" type="stmt"/>
+        <line num="47" count="9" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Task">
+      <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="Task.tsx" path="C:\Users\Tomas\Desktop\proyectos\challenges\challenge-andreani\src\components\Task\Task.tsx">
+        <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="12" count="12" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
